@@ -349,7 +349,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #fff;
-        padding-bottom: 16px;
+        margin-bottom: 16px;
 }
 .footer-soc-link{
    width: 100%;
